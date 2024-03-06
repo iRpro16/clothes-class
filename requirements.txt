@@ -1,0 +1,7 @@
+tensorflow[and-cuda]
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+#-e .
